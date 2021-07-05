@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @notcimon, a student from Southern Germany
 - 👀 I’m interested in tech, coding, music and sports
 - 🌱 I’m currently learning python and some flutter
-- 💞️ I’m looking to collaborate on small python projects
 - 📫 How to reach me: via github or instagram (@notcimon)
 
 <!---
