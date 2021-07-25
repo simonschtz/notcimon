@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @notcimon, a student from Southern Germany
+- 👋 Hi, I’m @notcimon, a student from Germany
 - 👀 I’m interested in tech, coding, music and sports
 - 🌱 I’m currently learning python and some flutter
 - 📫 How to reach me: via github or instagram (@notcimon)
