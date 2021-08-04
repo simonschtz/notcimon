@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @notcimon, a student from Germany
-- 👀 I’m interested in tech, coding, music and sports
-- 🌱 I’m currently learning python and some flutter
+- 👀 interests: tech, ai, quantum computing, web dev
+- 🌱 I’m currently learning web dev and python 
 - 📫 How to reach me: via github or instagram (@notcimon)
 
 <!---
