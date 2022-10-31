@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @notcimon, a student from Germany
-- 👀 interests: tech, ai, quantum computing, web dev
-- 🌱 I’m currently learning web dev and python 
-- 📫 How to reach me: via github or instagram (@notcimon)
-
+- 👋 Hi, I’m @notcimon and currently studying computer science (/Informatik) in Karlsruhe at the KIT.
 <!---
 notcimon/notcimon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
